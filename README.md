@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="assets/kamran-engineering-banner.svg" alt="Kamran Bashir Taas — Biosensors, MEMS, scientific instrumentation and embedded systems" width="100%" />
+  <img src="./kamran-engineering-banner.png" alt="Kamran Bashir Taas | Biosensors, MEMS, Scientific Instrumentation and Embedded Systems" width="100%" />
 </p>
 
 <h1 align="center">Kamran Bashir Taas</h1>
-<p align="center"><strong>Biosensors & Scientific Instrumentation Engineer</strong></p>
-<p align="center">MEMS & Semiconductor Fabrication &nbsp;•&nbsp; Embedded Systems &nbsp;•&nbsp; Hardware–Software Integration</p>
+<p align="center"><strong>Biosensors &amp; Scientific Instrumentation Engineer | Electrical Engineering PhD Researcher</strong></p>
+<p align="center">MEMS &amp; Semiconductor Fabrication · Embedded Systems · Mechanical Design &amp; Rapid Prototyping · Hardware–Software Integration</p>
 <p align="center">
-  <a href="https://scholar.google.com/citations?user=VaxZYvwAAAAJ&hl=en">Google Scholar</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/kamran-bashir-taas-b2333a212/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://scholar.google.com/citations?user=VaxZYvwAAAAJ&hl=en">Google Scholar</a> ·
+  <a href="https://www.linkedin.com/in/kamran-bashir-taas-b2333a212/">LinkedIn</a> ·
   <a href="https://github.com/Kamran00786">GitHub</a>
 </p>
 
@@ -15,56 +15,63 @@
 
 ## About me
 
-I'm a **PhD researcher in Electrical Engineering at the University of Missouri**, building integrated biosensing and scientific-instrumentation systems. My work spans **MEMS microfabrication, sensor development, embedded control, electronics, Python automation, instrument interfaces, and experimental data analysis**.
+I'm a **PhD researcher in Electrical Engineering at the University of Missouri** working on compact, integrated sensing and scientific-instrumentation systems. My engineering work connects **MEMS sensor fabrication, optical and electronic sensing, mechanical design, 3D printing, embedded controllers, Python-based instrument software, and experimental characterization**.
 
-I enjoy engineering the entire measurement path: from a fabricated sensing device and its electronics to reliable acquisition software, visualization, and experimental validation.
+I enjoy developing the **complete instrument**, not only its software: creating CAD models, designing and fabricating supporting parts, assembling sensor and electronics hardware, building acquisition interfaces, processing measurements, and evaluating system performance.
 
-## Selected engineering projects
+## Featured engineering projects
 
 ### 🔬 Compact Fiber-Optic SERS Platform
 
-**A portable Raman/SERS instrumentation system combining optical sensing, embedded control, and a web interface.**
+*A compact fiber-optic Surface-Enhanced Raman Scattering (SERS) instrument for automated optical measurements.*
 
-- Integrated a spectrometer, laser control, and environmental sensing with a Python/Django application hosted on an Intel NUC.
-- Implemented spectrum acquisition, background processing, experiment management, visualization, and reporting.
-- Worked on side-polished fiber-optic SERS sensor fabrication and sensing experiments.
+- **Instrument design and prototyping:** Designed the instrument enclosure, optical layout, mechanical mounts, and supporting assemblies using **SolidWorks and Autodesk Fusion 360**; fabricated custom **3D-printed parts** and integrated them into the instrument prototype.
+- **Optics and sensing:** Integrated fiber-optic sensing hardware, optical excitation, spectrometer interfacing, and laser control. Worked on fabrication and testing of side-polished fiber-optic SERS sensors.
+- **Software and acquisition:** Developed an **Intel NUC-hosted Python/Django interface** for instrument operation, spectrum acquisition, background processing, visualization, experiment management, and reporting.
+- **Data analysis:** Implemented Raman signal-processing and noise-reduction workflows for experimental measurements.
 
-**Focus:** Optical instrumentation · Raman signal processing · Django · Laboratory automation
+**Engineering focus:** Fiber-optic biosensing · Raman spectroscopy · 3D CAD · 3D printing · Optical instrumentation · Python/Django
 
 ### ⚡ Compact Impedance Sensing System Platform
 
-**An impedance-measurement system combining MEMS biosensors, embedded electronics, and coordinated Raspberry Pi controllers.**
+*A compact impedance-based sensing instrument integrating MEMS sensors, embedded electronics, and automated measurement software.*
 
-- Built a Django-based interface on a Raspberry Pi 5 and UART communication with a Raspberry Pi 4 hardware controller.
-- Implemented command/response handling and hardware integration for ADC acquisition, excitation, relay/pump control, and calibration workflows.
-- Developed experiment processing and reporting for multi-electrode measurements.
-- Designed and fabricated MEMS sensor structures and experimentally evaluated the sensing platform.
+- **Instrument design and assembly:** Modeled the instrument enclosure and component arrangement in **SolidWorks and Autodesk Fusion 360**; developed **3D-printed supporting components** for prototyping and assembled the sensing hardware into a compact system.
+- **Sensing hardware:** Designed a multi-sensor contact fixture and integrated MEMS impedance sensors with electronics, excitation circuitry, switching hardware, and acquisition components.
+- **Embedded communication:** Developed a **Django interface on Raspberry Pi 5** that communicates over **UART** with a **Raspberry Pi 4 hardware controller**.
+- **Measurement workflows:** Implemented hardware-command handling, ADC data acquisition, calibration procedures, multi-electrode experiment processing, visualization, and reports.
+- **Device development:** Designed and fabricated MEMS sensor structures and evaluated measurements against a commercial impedance analyzer.
 
-**Focus:** Raspberry Pi 4/5 · UART · Embedded hardware control · Data acquisition · MEMS biosensors
+**Engineering focus:** Impedance biosensing · MEMS · 3D CAD · 3D printing · Raspberry Pi 4/5 · UART · Data acquisition
+
+## Mechanical design, CAD & rapid prototyping
+
+Beyond software and electronics, I work on the **physical design of scientific instruments**:
+
+- 3D modeling and assembly design in **SolidWorks** and **Autodesk Fusion 360**.
+- Instrument enclosures, optical-component mounting arrangements, sensor fixtures, and electronic-component placement.
+- **3D-printed prototype components**, fit and assembly iterations, and integration of mechanical parts with sensors, optical hardware, and electronics.
+- System-level packaging that accounts for instrument accessibility, alignment, connectivity, and practical assembly.
 
 ## Engineering expertise
 
 | Domain | Tools and experience |
 |:--|:--|
-| **Biosensors & measurement** | Impedance sensing, fiber-optic SERS, Raman spectroscopy, experimental characterization |
-| **MEMS & semiconductor fabrication** | Photolithography, thin-film deposition, sputtering, wet/dry etching, PDMS packaging, cleanroom processing |
-| **Embedded & electronics** | Raspberry Pi 4/5, Arduino, ESP32, UART, instrument control, analog-front-end prototyping |
-| **Programming & scientific software** | Python, Django, FastAPI, C++, signal processing, visualization, automation |
-| **Design & simulation** | SolidWorks, LTspice, KiCad, COMSOL, L-Edit, Fusion 360 |
+| **Biosensors & scientific instrumentation** | Impedance-based sensing, fiber-optic SERS, Raman spectroscopy, measurement automation, experimental characterization |
+| **MEMS & semiconductor engineering** | Photolithography, thin-film deposition, sputtering, wet/dry etching, PDMS packaging, cleanroom processes |
+| **Mechanical design & prototyping** | **SolidWorks, Autodesk Fusion 360, 3D CAD, 3D printing, enclosure design, mechanical assembly** |
+| **Embedded systems & electronics** | Raspberry Pi 4/5, Arduino, ESP32, UART, sensor interfacing, excitation and analog-front-end prototyping |
+| **Software & data acquisition** | Python, Django, FastAPI, C++, hardware–software interfaces, signal processing, visualization, experiment reporting |
+| **Simulation & device design** | LTspice, COMSOL Multiphysics, KiCad, L-Edit |
 
 ## Research & publications
 
-My research covers MEMS-based sensing, semiconductor-fabricated biosensors, microfluidics, impedance measurements, fiber-optic SERS, and integrated cyber-physical instrumentation. My publications and collaborative research projects are available through my **[Google Scholar profile](https://scholar.google.com/citations?user=VaxZYvwAAAAJ&hl=en)**.
+My research includes **MEMS-based biosensors, microfluidics, semiconductor microfabrication, impedance sensing, fiber-optic SERS, and integrated scientific instrumentation**. I contribute to research publications and collaborative device-development projects.
 
-Selected research themes:
+Read my papers and research record on **[Google Scholar](https://scholar.google.com/citations?user=VaxZYvwAAAAJ&hl=en)**.
 
-- Impedance-based biosensors and instrument development
-- Fiber-optic SERS sensing and Raman analysis
-- MEMS microfabrication and biosensor interfaces
-- Secure, web-integrated scientific measurement systems
+## Career interests
 
-## Areas of interest
+I'm interested in opportunities involving **biosensors and biomedical instrumentation**, **MEMS and semiconductor engineering**, **scientific instrumentation and R&D**, and **embedded systems / hardware–software integration**.
 
-I'm particularly interested in **biosensors and biomedical instrumentation**, **scientific instrumentation and R&D**, **MEMS/semiconductor device engineering**, and **embedded systems and hardware–software integration**.
-
-> **Project transparency:** These are collaborative research systems with specialized hardware dependencies. Public code and demonstrations should be shared only after institutional approval, security review, and removal of private data, credentials, and restricted components.
+> **Research project note:** These are collaborative research platforms. Technical descriptions reflect my contributions; sharing complete source code, design files, and measurement data may require institutional permission and removal of sensitive information.
