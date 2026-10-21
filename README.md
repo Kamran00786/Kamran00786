@@ -57,12 +57,12 @@ Beyond software and electronics, I work on the **physical design of scientific i
 
 | Domain | Tools and experience |
 |:--|:--|
-| **Biosensors & scientific instrumentation** | Impedance-based sensing, fiber-optic SERS, Raman spectroscopy, measurement automation, experimental characterization |
-| **MEMS & semiconductor engineering** | Photolithography, thin-film deposition, sputtering, wet/dry etching, PDMS packaging, cleanroom processes |
+| **Biosensors & scientific instrumentation** | Impedance-based sensing, fiber-optic SERS, Optical Biosensing, Raman spectroscopy, measurement automation, experimental characterization, Dielectrophoresis (DEP) |
+| **MEMS & semiconductor engineering** | Photolithography, thin-film deposition, sputtering, wet/dry etching, PDMS packaging, cleanroom processes, Electron-beam (e-beam) deposition |
 | **Mechanical design & prototyping** | **SolidWorks, Autodesk Fusion 360, 3D CAD, 3D printing, enclosure design, mechanical assembly** |
 | **Embedded systems & electronics** | Raspberry Pi 4/5, Arduino, ESP32, UART, sensor interfacing, excitation and analog-front-end prototyping |
-| **Software & data acquisition** | Python, Django, FastAPI, C++, hardware–software interfaces, signal processing, visualization, experiment reporting |
-| **Simulation & device design** | LTspice, COMSOL Multiphysics, KiCad, L-Edit |
+| **Software & data acquisition** | Python, Django, FastAPI, C++, hardware–software interfaces, signal processing, visualization, experiment reporting, Cybersecurity, data integrity & traceability |
+| **Simulation & device design** | LTspice, COMSOL Multiphysics, KiCad, L-Edit, AutoCAD |
 
 ## Research & publications
 
