@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./kamran-engineering-banner.png" alt="Kamran Bashir Taas | Biosensors, MEMS, Scientific Instrumentation and Embedded Systems" width="100%" />
+  <img src="./1786855905148.jpg" alt="Kamran Bashir Taas | Biosensors, MEMS, Scientific Instrumentation and Embedded Systems" width="100%" />
 </p>
 
 <h1 align="center">Kamran Bashir Taas</h1>
