@@ -23,13 +23,13 @@ I enjoy developing the **complete instrument—from sensor fabrication and devic
 
 ## Featured engineering projects
 
-### [Compact Impedance Sensing System Platform](https://github.com/Kamran00786/Compact-Impedance-Sensing-System-Platform)
+### [Web-Based Compact Impedance Sensing System Platform](https://github.com/Kamran00786/Compact-Impedance-Sensing-System-Platform)
 
 **MEMS biosensors · SolidWorks/Fusion 360 · 3D printing · Raspberry Pi 5/4 · UART · Django**
 
 An integrated impedance-measurement instrument featuring custom sensor fixtures, embedded hardware control, calibration and acquisition workflows, and multi-electrode experiment analysis and reporting.
 
-### [Compact Fiber-Optic SERS Platform](https://github.com/Kamran00786/Compact-Fiber-Optic-SERS-Sensing-Platform)
+### [Web-Based Compact Fiber-Optic SERS Sensing System Platform](https://github.com/Kamran00786/Compact-Fiber-Optic-SERS-Sensing-Platform)
 
 **Fiber-optic SERS · Optical instrumentation · 3D CAD · Raman spectroscopy · Python/Django**
 
